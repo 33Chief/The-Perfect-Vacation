@@ -34,6 +34,10 @@ To complete this part of the assignment,I will need to do the following:
 
 
 
+###  Weather Forecaster
+
+![image](https://user-images.githubusercontent.com/71952428/118855058-6181ab00-b8a3-11eb-85c9-6f50fe7b7b5e.png)
+
 
 In this example, I will be creating a Python script to visualize the weather of 500+ cities across the world of varying distance from the equator. To accomplish this, I will be utilizing a [simple Python library](https://pypi.python.org/pypi/citipy), the [OpenWeatherMap API](https://openweathermap.org/api), and a little common sense to create a representative model of weather across world cities.
 
