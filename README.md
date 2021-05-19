@@ -1,7 +1,7 @@
 
 ![image](https://user-images.githubusercontent.com/71952428/117760743-34befb00-b1f4-11eb-9cc8-3c0810344837.png)
 
-## Part I - WeatherPy
+##  Weather
 
 In this example, I will be creating a Python script to visualize the weather of 500+ cities across the world of varying distance from the equator. To accomplish this, I will be utilizing a [simple Python library](https://pypi.python.org/pypi/citipy), the [OpenWeatherMap API](https://openweathermap.org/api), and a little common sense to create a representative model of weather across world cities.
 
