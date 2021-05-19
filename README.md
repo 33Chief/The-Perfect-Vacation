@@ -1,7 +1,7 @@
 
 ##  Weather Forecaster & The Perfect Vacation
+![image](https://user-images.githubusercontent.com/71952428/118852596-eae3ae00-b8a0-11eb-925c-03269a86f737.png)
 
-![image](https://user-images.githubusercontent.com/71952428/118849984-47919980-b89e-11eb-8633-dedf090e5ecc.png)
 
 ##  Weather Forecaster
 
@@ -48,7 +48,7 @@ To complete this part of the assignment,you will need to do the following:
 
 * Create a heat map that displays the humidity for every city from Part I.
 
-  ![heatmap](Images/heatmap.png)
+![image](https://user-images.githubusercontent.com/71952428/118849984-47919980-b89e-11eb-8633-dedf090e5ecc.png)
 
 * Narrow down the DataFrame to find your ideal weather condition. For example:
 
