@@ -11,7 +11,6 @@ I will demonstrate my skills in working with weather data to plan future vacatio
 To complete this part of the assignment,I will need to do the following:
 
 * Create a heat map that displays the humidity for every city from Part I
-* 
 * Narrow down the DataFrame to find your ideal weather condition. For example:
 
   * A max temperature lower than 80 degrees but higher than 70.
