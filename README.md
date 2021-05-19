@@ -1,6 +1,8 @@
+##Weather Forecaster & The Perfect Vacation
+
 ![image](https://user-images.githubusercontent.com/71952428/118849984-47919980-b89e-11eb-8633-dedf090e5ecc.png)
 
-##  Weather
+##  Weather Forecaster
 
 In this example, I will be creating a Python script to visualize the weather of 500+ cities across the world of varying distance from the equator. To accomplish this, I will be utilizing a [simple Python library](https://pypi.python.org/pypi/citipy), the [OpenWeatherMap API](https://openweathermap.org/api), and a little common sense to create a representative model of weather across world cities.
 
@@ -33,7 +35,7 @@ Your final notebook must:
 * Include a print log of each city as it's being processed with the city number and city name.
 * Save a CSV of all retrieved data and a PNG image for each scatter plot.
 
-### Part II - VacationPy
+### Part II - The Perfect Vacation
 
 Now let's use your skills in working with weather data to plan future vacations. Use jupyter-gmaps and the Google Places API for this part of the assignment.
 
