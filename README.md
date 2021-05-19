@@ -34,7 +34,7 @@ To complete this part of the assignment,I will need to do the following:
 
 
 
-![image](https://user-images.githubusercontent.com/71952428/118849984-47919980-b89e-11eb-8633-dedf090e5ecc.png)
+
 In this example, I will be creating a Python script to visualize the weather of 500+ cities across the world of varying distance from the equator. To accomplish this, I will be utilizing a [simple Python library](https://pypi.python.org/pypi/citipy), the [OpenWeatherMap API](https://openweathermap.org/api), and a little common sense to create a representative model of weather across world cities.
 
 The first requirement is to create a series of scatter plots to showcase the following relationships:
